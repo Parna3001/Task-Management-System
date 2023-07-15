@@ -7,6 +7,20 @@
     --pink : #ec48ad;
     --purple : #8b5CF6;
 }
+
+.buttonNav{
+    background-color: var(--darkest);
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px;
+}
+
 *{
     box-sizing: border-box;
     margin: 0;
